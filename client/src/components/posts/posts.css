@@ -1,0 +1,20 @@
+.list {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.list-item {
+    width: 30%;
+    padding: 10px;
+    line-height: 1;
+    margin-bottom: 15px;
+    background-color: rgb(206, 206, 206);
+}
+
+.title {
+    font-size: 20px;
+}
+
+.author {
+    font-size: 12px;
+}
